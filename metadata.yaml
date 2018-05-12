@@ -1,0 +1,30 @@
+_repo: Memories-of-Bethany_26760
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macduff, John R. (John Ross)
+    aliases:
+    - Macduff, J. R. (John Ross)
+    - Macduff, John Ross
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '8898'
+    url: http://www.gutenberg.org/2009/agents/8898
+description: ''
+gutenberg_issued: '2008-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Biography -- Sermons'
+- !lcc 'BS'
+- !lcsh 'Lazarus, of Bethany, Saint'
+title: Memories of Bethany
+url: http://www.gutenberg.org/ebooks/26760
